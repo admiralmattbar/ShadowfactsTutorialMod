@@ -1,0 +1,12 @@
+#Items
+
+item.thingy.name=Thingy
+item.healthy_seed.name=Healthy Seeds
+item.healthy.name=Healthy Snack
+item.thingy_sword.name=Thingy Sword
+
+#Blocks
+
+tile.blocky.name=Blocky
+tile.crop_healthy.name=Healthy Crop
+tile.pedestal.name=Pedestal

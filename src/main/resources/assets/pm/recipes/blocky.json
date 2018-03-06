@@ -1,0 +1,17 @@
+{
+  "type": "forge:ore_shaped",
+  "pattern": [
+    "TTT",
+    "TTT",
+    "TTT"
+  ],
+  "key":{
+    "T": {
+      "type": "forge:ore_dict",
+      "ore": "oreThingy"
+    }
+  },
+  "result": {
+      "item": "pm:blocky"
+  }
+}

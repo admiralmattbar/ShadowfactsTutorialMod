@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pm:healthy"
+    }
+  ],
+  "result": {
+    "item": "pm:healthy_seed"
+  }
+}

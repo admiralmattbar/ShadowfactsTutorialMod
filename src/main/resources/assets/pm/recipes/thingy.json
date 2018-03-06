@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " H ",
+    "IHI",
+    " H "
+  ],
+  "key":{
+    "H": {
+      "item": "pm:healthy"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+      "item": "pm:thingy"
+  }
+}
